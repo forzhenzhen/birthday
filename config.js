@@ -21,7 +21,7 @@ var config = {
         "还是可以期待的哈~",
         "我知道你在想什么",
         "放心！有实物礼物的！",
-        "说差不多了，最后",
+        "差不多了，最后",
         "祝你天天有惊喜!,
         "天天都开心！",
         "生日快乐！"
@@ -41,9 +41,9 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "布置",
+        turn_on: "开灯",
+        play: "放音乐",
+        bannar_coming: "布置上",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
