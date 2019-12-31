@@ -25,7 +25,7 @@ var config = {
         "最后",
         "祝你天天有惊喜！",
         "天天都开心！",
-        "生日快乐！"
+        "新年快乐！"
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -48,7 +48,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐！",
+        wish_message: "新年快乐！",
         story: "MESSAGE FOR YOU",
     }
 };
